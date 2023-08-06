@@ -1,4 +1,4 @@
-module.exports.fetch = async (url, method, body) => {
+export async function fetch(url, method, body) {
   const options = {
     method,
   };
@@ -11,4 +11,4 @@ module.exports.fetch = async (url, method, body) => {
     "Content-Type": "application/json",
   };
   return await fetch(url, options).then((z) => z.json());
-};
+}

@@ -3,6 +3,7 @@ const mongoose = require("mongoose");
 const cookieParser = require("cookie-parser");
 const { generateId } = require("./services/Util");
 const app = express();
+const path = require('path');
 
 require("./models/Company");
 require("./models/University");
@@ -11,6 +12,7 @@ require("./models/Course");
 
 app.use(cookieParser());
 app.use(express.json());
+app.use(express.static(path.join(__dirname+"/public")))
 
 require("./routes/Company")(app);
 require("./routes/University")(app);
