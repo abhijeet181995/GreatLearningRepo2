@@ -1,0 +1,202 @@
+[
+    {
+        "instructor": "Alice",
+        "startDate": 1704103200000,
+        "endDate": 1861894800000,
+        "totalMarks": 100,
+        "students": 25,
+        "university": "BITS Pilani",
+        "name": "Mechanical Engineering",
+        "description": "Mechanical engineering is the study of physical machines that may involve force and movement. It is an engineering branch that combines engineering physics and mathematics principles with materials science, to design, analyze, manufacture, and maintain mechanical systems. Wikipedia"
+    },
+    {
+        "instructor": "Bob",
+        "startDate": 1704103200000,
+        "endDate": 1861894800000,
+        "totalMarks": 100,
+        "students": 25,
+        "university": "BITS Pilani",
+        "name": "Civil Engineering",
+        "description": "Civil engineering is a professional engineering discipline that deals with the design, construction, and maintenance of the physical and naturally built environment, including public works such as roads, bridges, canals, dams, airports, sewage systems, pipelines, structural components of buildings, and railways. Wikipedia"
+    },
+    {
+        "instructor": "Carol",
+        "startDate": 1704103200000,
+        "endDate": 1861894800000,
+        "totalMarks": 100,
+        "students": 25,
+        "university": "BITS Pilani",
+        "name": "Electrical engineering",
+        "description": "Electrical engineering is an engineering discipline concerned with the study, design, and application of equipment, devices, and systems which use electricity, electronics, and electromagnetism. Wikipedia"
+    },
+    {
+        "instructor": "Dan",
+        "startDate": 1704103200000,
+        "endDate": 1861894800000,
+        "totalMarks": 100,
+        "students": 25,
+        "university": "BITS Pilani",
+        "name": "Electronics and Communication Engineering",
+        "description": "Electronic engineering is a sub-discipline of electrical engineering which emerged in the early 20th century and is distinguished by the additional use of active components such as semiconductor devices to amplify and control electric current flow. Wikipedia"
+    },
+    {
+        "instructor": "Eve",
+        "startDate": 1704103200000,
+        "endDate": 1861894800000,
+        "totalMarks": 100,
+        "students": 25,
+        "university": "BITS Pilani",
+        "name": "Computer Science and Engineering",
+        "description": "Computer science and engineering is an academic program at many universities which comprises scientific and engineering aspects of computing. CSE is also a term often used in Europe to translate the name of engineering informatics academic programs. Wikipedia"
+    },
+    {
+        "instructor": "Frank",
+        "startDate": 1704103200000,
+        "endDate": 1861894800000,
+        "totalMarks": 100,
+        "students": 25,
+        "university": "BITS Pilani",
+        "name": "Aerospace engineering",
+        "description": "Aerospace engineering is the primary field of engineering concerned with the development of aircraft and spacecraft. It has two major and overlapping branches: aeronautical engineering and astronautical engineering. Avionics engineering is similar, but deals with the electronics side of aerospace engineering. Wikipedia"
+    },
+    {
+        "instructor": "Grace",
+        "startDate": 1704103200000,
+        "endDate": 1861894800000,
+        "totalMarks": 100,
+        "students": 25,
+        "university": "BITS Pilani",
+        "name": "Chemical Engineering",
+        "description": "Chemical engineering is an engineering field which deals with the study of operation and design of chemical plants as well as methods of improving production. Chemical engineers develop economical commercial processes to convert raw materials into useful products. Wikipedia"
+    },
+    {
+        "instructor": "Heidi",
+        "startDate": 1704103200000,
+        "endDate": 1861894800000,
+        "totalMarks": 100,
+        "students": 25,
+        "university": "BITS Pilani",
+        "name": "Automobile Engineering",
+        "description": "Automotive engineering, along with aerospace engineering and naval architecture, is a branch of vehicle engineering, incorporating elements of mechanical, electrical, electronic, software, and safety ... Wikipedia"
+    },
+    {
+        "instructor": "Ivan",
+        "startDate": 1704103200000,
+        "endDate": 1861894800000,
+        "totalMarks": 100,
+        "students": 25,
+        "university": "BITS Pilani",
+        "name": "Biomedical engineering",
+        "description": "Biomedical engineering or medical engineering is the application of engineering principles and design concepts to medicine and biology for healthcare purposes. BME is also traditionally logical sciences to advance health care treatment, including diagnosis, monitoring, and therapy. Wikipedia"
+    },
+    {
+        "instructor": "Judy",
+        "startDate": 1704103200000,
+        "endDate": 1861894800000,
+        "totalMarks": 100,
+        "students": 25,
+        "university": "BITS Pilani",
+        "name": "Petroleum Engineering",
+        "description": "Petroleum engineering is a field of engineering concerned with the activities related to the production of Hydrocarbons, which can be either crude oil or natural gas. Exploration and production are deemed to fall within the upstream sector of the oil and gas industry. Wikipedia"
+    },
+    {
+        "instructor": "Michael",
+        "startDate": 1704103200000,
+        "endDate": 1861894800000,
+        "totalMarks": 100,
+        "students": 25,
+        "university": "BITS Pilani",
+        "name": "Mining engineering",
+        "description": "Mining in the engineering discipline is the extraction of minerals from underneath, open pit, above or on the ground. Mining engineering is associated with many other disciplines, such as mineral processing, exploration, excavation, geology, and metallurgy, geotechnical engineering and surveying. Wikipedia"
+    },
+    {
+        "instructor": "Niaj",
+        "startDate": 1704103200000,
+        "endDate": 1861894800000,
+        "totalMarks": 100,
+        "students": 25,
+        "university": "BITS Pilani",
+        "name": "Computer Engineering",
+        "description": "Computer engineering is a branch of electrical engineering and computer science that integrates several fields of computer science and electronic engineering required to develop computer hardware and software. Wikipedia"
+    },
+    {
+        "instructor": "Oscar",
+        "startDate": 1704103200000,
+        "endDate": 1861894800000,
+        "totalMarks": 100,
+        "students": 25,
+        "university": "BITS Pilani",
+        "name": "Manufacturing engineering",
+        "description": "Manufacturing engineering or production engineering is a branch of professional engineering that shares many common concepts and ideas with other fields of engineering such as mechanical, chemical, electrical, and industrial engineering. Wikipedia"
+    },
+    {
+        "instructor": "Peggy",
+        "startDate": 1704103200000,
+        "endDate": 1861894800000,
+        "totalMarks": 100,
+        "students": 25,
+        "university": "BITS Pilani",
+        "name": "Industrial engineering",
+        "description": "Industrial engineering is an engineering profession that is concerned with the optimization of complex processes, systems, or organizations by developing, improving and implementing integrated systems of people, money, knowledge, information and equipment. Industrial engineering is central to manufacturing operations. Wikipedia"
+    },
+    {
+        "instructor": "Rupert",
+        "startDate": 1704103200000,
+        "endDate": 1861894800000,
+        "totalMarks": 100,
+        "students": 25,
+        "university": "BITS Pilani",
+        "name": "Bachelor of Technology",
+        "description": "A Bachelor of Technology is an undergraduate academic degree conferred after the completion of a three- to five-year program of studies at an accredited university or accredited higher education institution, such as a college or university. Wikipedia"
+    },
+    {
+        "instructor": "Sybil",
+        "startDate": 1704103200000,
+        "endDate": 1861894800000,
+        "totalMarks": 100,
+        "students": 25,
+        "university": "BITS Pilani",
+        "name": "Agricultural engineering",
+        "description": "Agricultural engineering, also known as agricultural and biosystems engineering, is the field of study and application of engineering science and designs principles for agriculture purposes, combining ... Wikipedia"
+    },
+    {
+        "instructor": "Trent",
+        "startDate": 1704103200000,
+        "endDate": 1861894800000,
+        "totalMarks": 100,
+        "students": 25,
+        "university": "BITS Pilani",
+        "name": "Telecommunications engineering",
+        "description": "Telecommunications engineering is a subfield of electronics engineering which seeks to design and devise systems of communication at a distance. The work ranges from basic circuit design to strategic mass developments. Wikipedia"
+    },
+    {
+        "instructor": "Trudy",
+        "startDate": 1704103200000,
+        "endDate": 1861894800000,
+        "totalMarks": 100,
+        "students": 25,
+        "university": "BITS Pilani",
+        "name": "Energy engineering",
+        "description": "Energy engineering or Energy Systems Engineering is a broad field of engineering dealing with energy efficiency, energy services, facility management, plant engineering, environmental compliance, sustainable energy and renewable energy technologies. Wikipedia"
+    },
+    {
+        "instructor": "Victor",
+        "startDate": 1704103200000,
+        "endDate": 1861894800000,
+        "totalMarks": 100,
+        "students": 25,
+        "university": "BITS Pilani",
+        "name": "Instrumentation and control engineering",
+        "description": "Instrumentation and control engineering is a branch of engineering that studies the measurement and control of process variables, and the design and implementation of systems that incorporate them. Process variables include pressure, temperature, humidity, flow, pH, force and speed. Wikipedia"
+    },
+    {
+        "instructor": "Walter",
+        "startDate": 1704103200000,
+        "endDate": 1861894800000,
+        "totalMarks": 100,
+        "students": 25,
+        "university": "BITS Pilani",
+        "name": "Electronics",
+        "description": "Electronics is a scientific and engineering discipline that studies and applies the principles of physics to design, create, and operate devices that manipulate electrons and other charged particles. Wikipedia"
+    }
+]

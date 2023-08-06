@@ -1,0 +1,257 @@
+[
+  {
+    "logo": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADwAAAA1CAMAAAAqLXiIAAAAZlBMVEX///8AAADq6uqfn5+cnJyZmZnW1tZ9fX3a2tr4+Piurq6QkJCjo6Pd3d3x8fGFhYXGxsZfX1/Ozs51dXW5ubnk5ORubm6/v79kZGRTU1NpaWlNTU0dHR1EREQ7OzsuLi4kJCQSEhKiTP54AAAEeklEQVRIib1Wa3fjKAwVmLcwYAx27DRJ5///yRVpErtJOjvzYZfTk4Lggp5XBviPRpJRyxL+GseFjp+JcLYfJu3sX0CN9oQbvxYaoGL84/dj0e1syW0RIv2o6Lo/w541GkS4PU1vhrXMOOg/gKrRNDWzRnCGbI5BY5J0T5r+VfVylgDHD1RQPyMLcJ4uJERGyk9n83usViAMHczJ0S9HzcFOqbPAdRDg/O+wns7GCyY40OwxstTg8ExumPPP2P5Mbx+59ePNvN7d4EKC+uUgXH6MeO4URnLqfLgfweE2qecARozajj95LQKX4GLdghKP95nFPFSYrjnzblAWK6Wi/ah3QZFjKffFYkdLeTrXt+AxAvYI9pFLR9bGphfolGBx77BOORc/LCR1l4QLYR+x9ZYcqn3v+zdgpAyGaTI7oxRj2ztBusnDYt9ZnXros0U47WyaGZO7lSYcpYl7dbgfSUqq4U5W2GG3DI5MSpWf1AuYCuBCD38D+0sctxV3YF39FPw1SacWy0uBnZ4gBz/sliL4U/PBq9Ffksz2p3Usp92SXb4SPr6ARzX7OGLY6QmLV2xbBTR6jC6p15fXlOvztZeZ78D1amuf0wjP4w7qdrVIGcK25ayejm5jaj88y3N5iCwxCdsqGMmKFmL7qvYk9RExLnZ6iJrBpy3FxrpMAi8R5QuY4uthJl/LRwK5D7rzoSOxCKf069q550E8Na0zTYbHnqarxCNWY6s2f5CQX7nInvRViEbdNb2y1t3d0fr5qs64vGBvHgNJh/1N8VZSPfuqwGSAs9RmAd+A57Y15j6BX6/xyUw1j1+tUEOixJVNc3zLYiukT4rTQonvm+bI2jHWtCQydrnx/tLD9A4L5TRD5OBnImAnDXxczR1YUCvV+qIkJAf+g78Ft9oIFO5We57nyNYmFAxNyi2rjuJAZoj3WCLmFkNyl0uW9DbRSy+0bTkgFMymlev0I+vPi5wkZZ+K/tSDWlJO0ldwB79CFdS54vKeeK+jxR9zJ2OnB3TZEI9nh2uUB1kcOVP89vsi0u6q9Uz/qqpeUcbU9liOB721rveDm3M3UbytSlOfnO+jcUJZYXj7UIlL/97VvYtEE342a25UN6AMPSeah5BrL/2RVOGHPHvUWvs9fdZuHF0Fa6EYD27iMNMLPHmMiL41p9qqWCZelKrU6Ise8dZJIiNXKOE6WQYf6RyOPGvqNMfDNK0LTdaZPE0RxOJjmXCmlpjZvQ9TTgnpXGgfbbzyYB1juzY+MIahbTQ38j6Z47d214hFeU1WS++8oICyjYORsZHogzZkHPUockub7eoc4xTn7560ab5tuu8bIeGou41NSnlcFO7d2T3H9Bt/pG9UhKXrpJBi0oPohAA+iF8koKkUVKC97KLsJDrRhPgUbiexWBeyTy6Idq3PtYMS6RtsbiTvFAJWV+iihM9t8kS3hoULXuhY+4yRTnpzNHOHhXjHXgzyxTi/OjWoZwakZKI0UbOtxFktAUz7M7aaryXnBhR5pqft8AMf/I/jH8xdOYpGG+pEAAAAAElFTkSuQmCC",
+    "name": "Indian Institute of Science",
+    "place": "Bengaluru"
+  },
+  {
+    "logo": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACoAAAA7CAMAAAA6l+hXAAAAe1BMVEX///8bHVkRE1YAAEf09PYdH1oAAE8AAEwAAEkZG1gAAFETFVYAAEQWGFcOEVXt7fBeX4AIDFPMzNRGRnDn5+szNGXa2uDFxc+Ki6C0tMG/v8qgoLEkJl3U1NuCgpoFCVM/QGyYmKtxcY1TVHioqLgsLWE5OmhnaIcAADvPsYnYAAAC+UlEQVRIia2W6bajIAyA4wIEFFeqonW37bz/Ew4uXe6dVvtjctpjWr5jQhISAADC0HVhR1w3DDfVdxBl2pRveLdsUono+Ntv2yLEkjH1x/InWI4+jeW8aj9RxmgricfO+glqwjwiW4rsFcVQ5X2HrcXZKVv/zK6MWy12fa5cfEGdxU1VUGFJp5/13pEWFYVaHHb+QWcCPcIigIgZb/r73t6iEKaUtOPYEpreA/QJBSiQSEmweInYJxQmQYiY4BtUz6j+Bg0di3PLCb9AI5unKbejY7RG4mSZQ7A+REcvGACGwBuPUOUTNClSSHx1gPbt6mVkt/0BeuV0qcSSyus+GhrDq2YcCXfRnMp01VJJ8120ovGW/CKm1S7aBPfsTyJudtGbfTdbUvu2i0YeTVYtoV70v9DBpuXDgWEXfe77GYsP6CSC7V3DIxYf0Jrx86qdOat3UWBb/ZuzwGAfjbzV7iQeAfiEasFP8/PEqT5AwRg2kc2ZhXCENrE0rz3JRwV8RkO0qNbUQvcQhV7MfUD0cIyaiFoWv8A3aMYIYdlX6OgR8tIFPqPqFBBKSXBSR+hkGrszVY5p9NMump+oYUya9DwKrvknVFVnM1ToRa1+mAnCLpX6jVJdDWeknLTLfJlrqy5oS7jAyzCZhLyMOCECbnmUFosnxsuyLsuCUc/igRA/piGPBcNRu1oXJWjdQNVrU4R6RCZi/kSpxdNmWk7qlAwZ9FMFSVKtqU2mIjU72NAmfuSxbqZMudCrvJ5u4RaXC382GiTx/SCDC2bToTLPUK3oLSbPMtNI2L2XQaJ6852g3Hpmzwi+jKZbS/DO9sm5qpIOhrViKiT0Bi/SBQQ3f6pkLJokhWZBG+NcCj+ka4m4mkU1NvUV/tQnNY/j7CpI28EvMWNdojFaasihDsO+BjWgXEb+b6l8mwTYVdmyW7euOgyI7Vf/ksZ2ZNYkZYhejMjMXSbASL0jjdTDegOyzIcH1B+yD+AiZdO1aKS9NuUet4m5rL27zf0FnAczSw3EwmQAAAAASUVORK5CYII=",
+    "name": "Jawaharlal Nehru University",
+    "place": "New Delhi"
+  },
+  {
+    "logo": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADcAAAA8CAMAAAD1wtK3AAAAclBMVEX///8lKCsAAAD19fX6+vrn5+fr6+vk5OTPz8/S0tLx8fHc3Nzf39+sra3u7u7X19dgYWOio6SIiYoNEhcfIia5ubrIyMhrbG1zdHUAAAk5Oz3CwsOztLSdnZ4VGR15entUVVeTlJVFRkgACQ8vMTNNTk8YeANmAAAFjUlEQVRIibVWabOsKAwNcV9QRFBb3NDu//8XJ6B9X9++fadeTdXwRYQcyHISAvA/jDj9bzi+/r1smIRf80f71zCL/GueIz4VDcPP4jRibgBmnP+s8G0cnrh1q37BjYiqZgLqLIQorqo4l3beujSry4S2eww+wkiRZEDVK0TsOnRjsCO/uwmHCGKUoOcPDm62fRVKLbfejmG+t4z1TcYnK5aEE9ZKNuKC+g2VtzgOeKhl7tLSLazI7L42pu+hGOcN22WROg6yN5yQZHc67a11ik3u/r4f5GwEmVBlebop1h44viv6iGhfy00tzHK90zZHmzZTI9zViD1fFnUbHu+Kkm7abS+sb5fG/W7CyH6XCPqum3UhNWMXG3yPZIfHbHZhKr652AcoMOWobmkOQ3vsbDyQlAqwfsOxhwZmA2hM3jXu9pHOT0a0IHCcQqn0eLslUJffYTUCZEjuqlProikuTksGc1rODdi2Nnj/ET6d0+l3IC3mifgRTs8NQ44WKXFwX0Gq6R0X+yg2RKa0e0+fqSGDy2ykM8XLcv41m+lYCG1jvuOGjtTIMgpB+EJ7QHYFpXv4j422b7DOWuf8wZ3/4hUt48EHJcDEL0TN+o37e+ZzMmDftbg/M0s8r2n0q/mF7M/zVuvhF9Xix7Vff3GoicYX3KztOUmQbuj3e3kdHknPAYHPiyPevyj6MN01G8nR1qRD6JwvR9HfDxFVeOlfGi17bpJLOFmH+Jpayvloh7b06lRTMAYm5LczNuaUylM+xVrahnOeXmudS7AxXtPi9Mfe6gBEe4abjDQmiKGrIKPyEM15MIEOTgPp6CQ0p73hvRNSwn05cRPwkHyResk6giSpAii96fmNCmrQrf1pz2as5YBquHBGA6eIDa4mFCSXTXkS+RAcmBgc+Gl62nM+mArVduE2MfDOSktsyxnn6zzw2ItWt4PWqrK4rMUD6xLZ4X959BI7XdYQGyqoXrTAlvTYevUlQhYgQ//bQE2JlOWTU5PylCQNxD7Cum0po0Uw+6o2rTl5JELWOnaFvEigCFyuB1CHGZT1VNrc4+SyUD70weyJkAnH2BCZNzDWIKsipQLUZZBpOr8zfI39DVQK6V8q5XHRHt/9InP5UJqkl7OUq5BhOJPPt17Hc+HInN0ulYTHhbhI+lBhXSgS6VdllSXo81FrosBJCsWOzqXgdjr0zPd5oQsLEp23BfE+nDlfdZPOaucaqlokEFOWAjtZ/9gaUjCmZTW692yRpustLh3Qc8ToENzc28iU3083wFOh5mF3ljlFGXEtcLrVNt3CHWXUBxrqHilHB9LHGTTPxckziBbyzQzmxhi7nZwthmBzJMvmzgkRWRtSh7liLdjjWQ32bXSW3pXbkt7kofBlINXVyXbuYGr3fMZnAZy2i3C0x9oHcd8Mkc/GgndeVvqtmwEmsvIqLGaAq0KIxe0q6g3SVfucTppKBFC41/e8TtH7+CwbKzTr7EgdHMyPlp5ofuok49EIVH4ZqSCtabA8A0yeXVZfQTM8gUwpJrjpumnsVXuiGDZOcWH/vJwGuqvwTU8gQdvjOFqlnv/H6aDxtUTS/TJR83fg94EO1uXQvL3wY1uSuzRky/IBpXz7leE9h7cRYBbeEmJQOKD6gXq4OlHcwoa944ifBnN/XtFj+weqFnx01ItAyahQJD9wBKwpQ0JH2rwRVHRaGjd8zK58NBuErMP3tucZkb4Wzz4yTjXn+qt7oOxo8Jf+lzJgG9/WEscOurEgppSfQH5w7+7HZcVGX3QcbGNis/i9dyW3DsgN3XmPwYR7DJx6NMq5VbTdv6DciFYcqXoDHHAPQFUlC/g4vvePn0Y4bdS0NggLdMpu1FB+8P4v0GKyFgawa9MFkOuf4f6LkaEu/gvu0/gHhPFcYkax9XYAAAAASUVORK5CYII=",
+    "name": "Jamia Millia Islamia",
+    "place": "New Delhi"
+  },
+  {
+    "logo": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADwAAAA7CAMAAAAQJxn4AAAAhFBMVEX////79vbhvr79+fnjxMT26+vfurriwcH+/Pz48PDp09Px4uLmysret7fdtLTt2trZrKzTnJy5aWnPkpLAenrJhIS1X1/Wo6PCf3+9cnLIj4/Rl5fPoKDHioqzWlrNm5uwUVGkMTGqPj6nLS2ZAACrRUWlJCScDg6gGhq/aGjDcHCMAAARK765AAAGNklEQVRIid1X63bbPA6EKF4k3kVRpiiKlu0k/Tbp+7/fQr6kSdtsu7/2nEVyHFrikMQAGDAA/1fWkyXnWGvMeeHsv0G6Ghbd44CQfR29hVn+JdQf1uY2KlMcbqMGH3Z/htrDj03S4TX9OM7B/wGqjhTkqXnMH5O7DzfnQJ/cV7jd1giuHDZxg3K/bZ7Ldv8S+hoA6vI1NlBYX6g1EtSSv7045q0aOLInwcf11WvQxy+g3ZGxebETAA1zagY3DHKitPpk/cGAXubsoX/36bMde3dRZXftpP1YB060JEamQRpQOuh+kVG59tT+Fitf1AEgriZxwaUdvJKOeMlI4pXYGIE9mU03p1+x0cmzvOCxvNf+NVPqhdZaaKqpwNX8NPCTgi14UOFnLFn7sh4Ubq38KKQWRBNB8FcIQrViuISD4Lg2p4b/FPAm9PFCgL1o6SQR6rNfjaKEyG3TJ6WXzCF8TvZYhjw4eJqMtP3tEaPGJotxu9Pb/LOa6dJaWk376eAKw8AYHMrkjb3n8MSUs0oxQu+TztFP6QixrrB+rJMAs87g9RsvznbMWtdAUaq3jDmpwYm9vJ7Wwt/U5upi4EOusNq/XnT35Cc7SgvJ+aQQzBiCldZQMNr9DrZTemm2dmvWH1le+zUmwOTKr0QYb5L3HgpjzDCFYDaaRMfuXMVrnsTchs238R18gKChe5GeekjGFVvo3I5MIZgxLQeSEvFwRseol8cemgXeKVOrC8GRadAV6GBbTK1RwqCUwp13nyeVEoPzSUPVw+Dlv+be6jt4VYl5CEMhk/bWgtMJGR6loV5xgmx3E5cdsm3pRIaEKQxd/yjOAPGcII5lahKR/h4qH+e5zvMc1X3a0ypSM5VxaUB18PrIEHkqzJmtApOa+K77vVqdFy0Z1E3rxUfIt4dd8ASr3Ulgk00n4zm31xeY2vzmGmYnZ5djshMDzdYiMtRb4vU1hswWbd3IqjkSq7X3VApvMTf2kbYey8N/u5iJjcq7WVWLRN1SZNs/Z5qy028j5/s3fiXqur0xt0ftt3l8ky4nGlmNvZX3SDWqgYiFO451TPzmcS8e+fuosPMBX49U6wgNAy7vOw95aWaXqAtpijewFqBep0Fw+l5+l3MdgqPJzQ4l8r5zH2KY1ZbKiI65fAWznSiMMtLpbqfGnc8uETEWWytqxt3nbobJg32lSqSU/RUse+Eb4W6S0Vi7U3t+i8kLRadV5vXBNoZsLty9+YkLjXm1gw1YdFU9chD2VS5b0cJMvtJTEPCojABD7LrZGjd6La9ioDvElvTQ6Ea3O1j60XFbpPQrHO6vNkZn00ebrUsDqoegdJQToFw/TFc8w2UdkrOZZ5u3vqn3V+ha1WRV9A0qtaiyL8ObH0wmO6HuKmkJ+8hTxKp7E2xD9QX+ECc8Qi25jakYRrWoxA9WwOyU8w2Yvb+DwD71XDSzJS19Pbgf9QxzL+cKdZpS4dyQFiuGM4/1rDjKw15mnPL+u+fjMJWZBt10+R2sNrHJ3Bw94aOrBEYFpneiQ9KNNA7Rpiv02Y2G+KzytoL/IJ+BHpH6TVbBeJG99lx54HhYoIBdvQDeUPJFMFEVEoW942OnlSvsATpqkayiHE9pGW4rBFj80QPopv3uLZbu6Trfig9gbPzXcB68LyLpW88gwMV+cOA4guVZD97fGk33ucUzZI/6QR6pGrS8ZaUuwzhRFELKNVffx4RNmg4e2Z/VJzB405RT5fIwuWlS5sMbVE+58n/Oo5syFfmQGl3gJwtufIsWm68ZJqH8Zxlzz2EqJGMhjq+T+s295IRqg3/abNRYKRE/uqwL349FicNOhbfu9Bt9bG6XjdZugUaOIsixq1O+5ufnmU862/a23LH/Fbuj98crXhz8C7KCmhFPL2EhSDA9rcBf2HXSF7fY7iShzzYuHegYNn2d1ss1RA2YRSWg2n9xk9qtlrZhx3JcaYc3g3U5zsuGO7N1znW/G9X4JRRNHyVwHbaMLZcyPQ/YWMTR1kgwJ9WB/ics2hYUtGlGeT2TXOvFMzhiNeBJ8vLnS3NTUKFA4grBm23Rav+CN8r6W5Z/NZGzRcyha6/hUSYH/nfIm7k15jBX7LE5rn/7P8Jn+6rb/s/t30scb/0Z3lPJAAAAAElFTkSuQmCC",
+    "name": "University of Delhi",
+    "place": "New Delhi"
+  },
+  {
+    "logo": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACkAAAA8CAMAAADMpWPsAAAAk1BMVEX/////+vj+8e7+9PH849796+f5v7D//fz4uKn95d36zsT84Nf95+H71cz839j5vK770sT4s6T5w7f4sZ71knn3q5X72tL5w7L5uaT6yLz3ppPwPgDyZDj6zL32m4X5vaj2oov0gF/0hmfxURDvLADxWybzdFD2mX70i2/0fVjwTgDxVh3xXi/3qp34t672oIPzcUZXurtBAAAEtklEQVRIiY2WbZejLAyGA4hVBF9ARGhRtNOqM+1O//+ve2h395zZ6cyZJ1+o7WVM7sSkAJ8NcaAE+NP3zxZQ7eucJT+CpS/GwtRE/0jKruiBeRJ+JK3Fde+LMv2RRIMgOaXS/kgCa1Mhmp8fHg0vt+l/eASrVFPp+bKyHx4tSzVNbXCSbW/d99yuSeZjih4hZKnYD9+Cmu0dQEKLuowiOHyZvyGv7EUC62XBvVExzCt++9orS/ZXUCl5XHAhMTj8Ir4i7XwA7QEhnhMEheGApDp95bKMDhCC3Ned/5P2L7T/wmml3u5HYQhS4LuHAsgO6zMpz4/waw7VLQETSRo/suMTiNlR3o8RULs58AWQILmkL+gzybtHSDuzK9dcgyeItoFa9IK/IaEuOlto7NWwHnr4ikRN9vsOf9Z4WIr113uskMX73XOgf0760rLVhW2tY4ZWXJ5z/2uFXSaWb8PR5lHkwX0LRtdLTdVwg9GCIPunMAFI+ag43akF8HAKTS5vLvuqRUJto3REpTMn4abeOZ4avv+iRLHTujZGydWtcgdjW5K37NJstyeyWXplcqBI4Xa+pXpDgFNE5bY9ZZIr12s8GZ/gLbbxo0/LLBGHz6Fi26pxF5ac+b4CVNg5vsna1Fn38u+bR4YwBmanBvSYdIjXpuUCSuu9rN7+Ide+n07OuDkJWKydQKsA1ysVxlI8muyvMTe4eTDerAsv+oEwobsShvo9U0VWHT6QF486r1evzHI8DRTwO2cITaFYYtjJh34qDwxUUKdNr2E8B1vm09Ibp0+zGWwvzym/F7BLdpCtNAc31DPL+szdgp5LcVlOttyU6oJyCy3vky3qtTaisqvPxqzprXudA70mpDxIm4ZmXIPdSsaB6xTIzDDZZV6Hvk/T9k3KBggqLoXtx9CoNDaptUCZgnLOQrukhyVLrWRq4lYdCOhba6TpRS27CzQWWNNAt6RFPo7LYd1eT7fXDlmC2LIdj/M4Tm7R4gAuTg09dOWS4bzjtNfv23SIY6umwLb0st6m08rnXm7ICKBZS6hbje9oYnVhjA3bVjG1LNPsvehq1is34EbADhDs1IHXGac2Cm/6tF9u22GdgpEiz3xXi3O6UzQWUgeQl1rpXqe+EKKOAoSphXNr8rLDCBh9wYyRO6lAusCyWms9+6L2/biYhYU0qLoQpWjkJWoZKylZBlTuC60GYZQxrDBjCEtqQl/WnnaKXioSHgs3iUcTJmGVixm5zI56XEKl2r7o6iKOuz3Q5NHNVRWd2mOk+n5Uo2JeqD4NviCU7qBBr2l8Ie4zJ4nzqEkqsV88EukoKTZoUXmRF3XFgeH1DPhPKyPSXEVcHPvQRwXA1KUiIxIc52hX4Wa/S7T8O8bKMNx3TBwDVCDgvHA2LmSGSIuyPSbyw2JsZBxU1+T8qo3KqnepYgxRvwyGVwxd+LAVYvO4hFdM3A4tEzU1Ke+cw/SyAsmaf+d3o9oUaNPRar29TfMaGPD50sWss0//XYhlQ0ViltJysiOUDbc2atiAfZ7JXOlF3QUubVVJEetMqeqaJ+4RwVWqkMny9xW1Nsvol+Ddr7haF3+dO+ZUxb7l7habLKaqU8F3nwL8D61qaZP4MnntAAAAAElFTkSuQmCC",
+    "name": "Banaras Hindu University",
+    "place": "Varanasi"
+  },
+  {
+    "logo": "data:image/png;base64,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",
+    "name": "Vellore Institute of Technology",
+    "place": "Vellore"
+  },
+  {
+    "logo": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADsAAAAWCAMAAABJyRRpAAAAflBMVEX////++/389vm3AF378/fHPobIU4zZjbC1AFfvzd335+/ouM66AGb78Pb++fzw1OHfmrrfj7nOYpflscm4AGHELX7vyNz12+ninMHpvdHlqsjipMLdk7faga7biLLUbqPUdaOzAFDBF3a9AG3NS4/SWprTZZ/ae67FQoPLLYdeKO4yAAAByklEQVQ4je2S7ZajIAyGA9pasAhKJQJqrTrTmfu/wQ3YndP9szewm3PkI+HlCYkA/6JJ9bNk71MeGS/zpoGyLDmn7+cUKaf53spjrc0xV3m/0Bn5mExf0XqFruuKvjs7YOeX1LQOUbQxb7rtcK4TDbzwAOpC1xQCTuk8K8YUjZcDVVspZS0xipRCf6uTE69Xysxs3Uu7+UPLiyqF+3w1wMgw1veATcp2kd2anJO4EqCvC5a1gpxvWhtswTO3dP1pP7mSgM3Vz0Xir2BuECwrLGndlhJ9064hHLkbHD72/SMgcauo8bQDiBmaW+wBzjtpldn+0IpF43SFnEA7DMNzij7hANwF4Y50T0GX+UuZct67d+1JpSpYqpyc/edzetaz5FWuE4GJCOWloXEb5YMDWw30X0n7mAmbm3ijyn4Ha2I0dfzWr46rJk8ij+XrH4Amexv228M4KL3c3Wjc54IqgK4dWrBeIxlILb2wLkoVYbBWUHDUthFCQgB7AMbn1CaKDiq6GDFGTWeohaPwDo0a+YKtM8pqMDA7ESo5Oiq0okJZDBGHtqRIwJq4QnlUToKTjrhQa+oXBOIy4rHYeAdBy/yi433A4b/9zX4Bpp4f7NKnpgAAAAAASUVORK5CYII=",
+    "name": "Amrita Vishwa Vidyapeetham, Coimbatore campus",
+    "place": "Coimbatore"
+  },
+  {
+    "logo": "data:image/jpeg;base64,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",
+    "name": "Aligarh Muslim University",
+    "place": "Aligarh"
+  },
+  {
+    "logo": "data:image/png;base64,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",
+    "name": "University of Hyderabad",
+    "place": "Hyderabad"
+  },
+  {
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjYQJrTXFoeWapOi0RxAe6yJ2wdEviQSWa0TWri39c5Plp5LJPp7dKng&s=0",
+    "name": "Jadavpur University",
+    "place": "Kolkata"
+  },
+  {
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdNZEHRoWVNGJpbPwY8ajt5n1xIUGV3G_u0s5A_K4USzvsfMi5NYktmg&s=0",
+    "name": "Manipal Academy of Higher Education (MAHE)",
+    "place": "Manipal"
+  },
+  {
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdiNJnjbddkCFEA_0otPgioDKWTO2dOyY_bNqpCvsH5ZAbh5HCv8LtWA&s=0",
+    "name": "Birla Institute Of Technology And Science–Pilani (BITS–Pilani)",
+    "place": "Pilani"
+  },
+  {
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJgdC2Qsy_40fB7NjmOw1oTfx-5noBOjWk3neToT6nO-7lwHuYQeXejg&s=0",
+    "name": "University of Calcutta",
+    "place": "Kolkata"
+  },
+  {
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9O6eEuzcIDC0lqk2NjtOPfoV5ojswVj5QkE78LgJc97saiX634fWKhg&s=0",
+    "name": "Anna University",
+    "place": "Chennai"
+  },
+  {
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwgkwwo1ZxjmTFy02QaHswSLO8Xa8oaDRaf2Ef9WRDBzs14jRd-iTRNg&s=0",
+    "name": "Siksha 'O' Anusandhan",
+    "place": "Bhubaneswar"
+  },
+  {
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAxZLpli_MbpPteW-F-D-3f_SEMzsmNQR6r6WAb8cty20PcM4eqY2SGQ&s=0",
+    "name": "Amity University Noida",
+    "place": "Noida"
+  },
+  {
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwDxHWBkouCMfzTroKc1552LwXMWTp86bOaYYPYmhmKI30enEnkVdgNg&s=0",
+    "name": "Indian Institute of Technology Bombay",
+    "place": "Mumbai"
+  },
+  {
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUlQ3qskI5NSWkmzvp1yShB_rbMe25zvqdrBreXJWnPeIeWS31KR_ypg&s=0",
+    "name": "Indian Institute Of Technology–Madras (IIT–Madras)",
+    "place": "Chennai"
+  },
+  {
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLc9AhNgd-LbuhYC4kqAMJytVirLC-nwKJzem8QNLi0LKEiJtPbDdg9w&s=0",
+    "name": "Panjab University",
+    "place": "Chandigarh"
+  },
+  {
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNktgf23BFoKkV-ZWB5BmxgWhMNp3JW-3Zrr2p97qxrw9FsALPUAsiOg&s=0",
+    "name": "Indian Institute of Technology Delhi",
+    "place": "New Delhi"
+  },
+  {
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNeLWrdPJZue5HvxPeNfSnkCqZqRwlqO-AYxdYbc8Zr8MW-urW541-pg&s=0",
+    "name": "Indian Institute of Technology Kharagpur",
+    "place": "Kharagpur"
+  },
+  {
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6qkWmlhqbN-NkwUp4ezOjZFfH4J6iCnfjJlB4S9O4O4ihKyMFdR85aw&s=0",
+    "name": "Institute of Chemical Technology (ICT)",
+    "place": "Mumbai"
+  },
+  {
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE1K4mGRaquKVNyw-KPHfrkfzY0K2megUzbfZoQXYDAOYX4v0FX2ZUqQ&s=0",
+    "name": "Thapar Institute of Engineering & Technology",
+    "place": "Patiala"
+  },
+  {
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBGFIBMn61MoEiyspMNNdKHGxX_uMT0qfIpi7YnI3_WqnfnyHQ_0VxQA&s=0",
+    "name": "Savitribai Phule Pune University",
+    "place": "Pune"
+  },
+  {
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRBAheIB40f5HHajgojxiIwZKi2WADoPzPsU0a2ioXeAJCOJhoz7dAMQ&s=0",
+    "name": "Kalinga Institute of Industrial Technology",
+    "place": "Bhubaneswar"
+  },
+  {
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLILl_ikH07hYGUS1Lf66d1EGjf5sZrdA1AkJM-CGtzFrUiIF7wzaIzg&s=0",
+    "name": "University of Madras",
+    "place": "Chennai"
+  },
+  {
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkDgQp_DfMI-_G1G-GK8ImigTAWizxT6JllSStfK_sEw_u0OueT4Ae5g&s=0",
+    "name": "SRM Institute of Science and Technology",
+    "place": "Chennai"
+  },
+  {
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2yv9roXnaFqrZ07ESL4sG56OEr0ELTHRkitqr1Iw1tRZCTlO_eZE-fA&s=0",
+    "name": "Indian Institute of Technology Kanpur",
+    "place": "Kanpur"
+  },
+  {
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUIh6hSkgvehSlunn8ixhGu6gUmSvoHm8p7elM_Em4QBKpBQsqXUI2CA&s=0",
+    "name": "Jamia Hamdard University",
+    "place": "New Delhi"
+  },
+  {
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIb3Na5BvtoQeK-wGp9eK5iewpgHkmFEehX2F8_b5kMIeykC4CLaQkgQ&s=0",
+    "name": "Bharathiar University",
+    "place": "Coimbatore"
+  },
+  {
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHcrWFD86NCClSHqX9-90ORMwYVZJuFY2FJl-ngOpc0nujNWnyGK3iaw&s=0",
+    "name": "Osmania University",
+    "place": "Hyderabad"
+  },
+  {
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-0ZJrR6VMKdmaRlUwz_76u6Z2A688s342TKdZUAubIIFu3Iey5B-Stg&s=0",
+    "name": "NMIMS Deemed-to-be-University",
+    "place": "Mumbai"
+  },
+  {
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStQYm6RcMYhYKgI1cZ-gPJvSNZk3IGUK0z_uhmyB4wtphg-cEH5Mp2_Q&s=0",
+    "name": "SASTRA Deemed University",
+    "place": "Thanjavur"
+  },
+  {
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQg50a6Sez3J1nviIFwlRZGKTzevskc1078i9EnFLFBUOZWdq2xe0iIpw&s=0",
+    "name": "Indian Institute Of Technology–Roorkee (IIT–Roorkee)",
+    "place": "Roorkee"
+  },
+  {
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIuUB2tA0ByKEZU-gxLdllOs45JHihsXasPvPbMBRGy1YEzsMaYyM_cQ&s=0",
+    "name": "Pondicherry University",
+    "place": "Puducherry"
+  },
+  {
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ-X93IEyfvdpNUmAh1-uZRtICaEkOCr5hgAdVgUQY2sX3JqLUQHGBGQ&s=0",
+    "name": "Lovely Professional University",
+    "place": "Phagwara"
+  },
+  {
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnjv93B4vHNJY1w-En3MV2wbwQuRSflyfAPGFh2VCyJpYjfk1AIZsVqA&s=0",
+    "name": "Saveetha University",
+    "place": ""
+  },
+  {
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrVmpNHBRXw97R7-b8MpudQ81NeqADCdHjxbZJJF-j6ZkA0dtLxK9hNw&s=0",
+    "name": "University of Kerala",
+    "place": "Thiruvananthapuram"
+  },
+  {
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK_AjhrJh_X-UXduVCDm6KhVZ9qK0wn4cPmllQYj1sOerwOXKg_OH3fQ&s=0",
+    "name": "Satyabama Institute of Science and Technology Business Incubator",
+    "place": "Chennai"
+  },
+  {
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_iSaPVCFubiGfYz5ugsEO96J4UVyEWK9zfQekcEHfDPhLMUN7m4EmUA&s=0",
+    "name": "University Of Mysore (UoM)",
+    "place": "Mysuru"
+  },
+  {
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGNBEQOa-pQpm42FwfY4eHshToa1P8SfC99eyNlKkh5kakRrkDwGervg&s=0",
+    "name": "K L Deemed To Be University",
+    "place": "Guntur"
+  },
+  {
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS080wSod4Z2lAqDM1tiFSg5i74XOLw4007KvYzssYagVLCz0TDoc_PVg&s=0",
+    "name": "Delhi Technological University",
+    "place": "Rohini"
+  },
+  {
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS93_GVJGLH8xKaUFeqVnjWYidt0eZKdGSA9-DmzQW4B0e8G2Ne_3kK8w&s=0",
+    "name": "Andhra University",
+    "place": "Visakhapatnam"
+  },
+  {
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4Dt86RduablXLLdogQoZeZCmTuPLMXSL3h-FLncRZFK_8y4Ann6svbg&s=0",
+    "name": "Guru Nanak Dev University",
+    "place": "Amritsar"
+  },
+  {
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLOsQiF1T87C0DvtkvoggBAq9MKGe9pyL0alD3sv8JA19Wr07IojrXxg&s=0",
+    "name": "JSS Academy Of Higher Education And Research",
+    "place": ""
+  },
+  {
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTybrjMghAO6TIDNJcjsQr63mGSdY4Vp-n0edH9DvDP6rj917vzPUWdHg&s=0",
+    "name": "Birla Institute of Technology - Mesra",
+    "place": "Ranchi"
+  },
+  {
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpsCoyVi3GfGYTagZaCifocu5tSHPwDKTzpHRoRPM9SKMwqpBarD_x4A&s=0",
+    "name": "Visva-Bharati University",
+    "place": "Santiniketan"
+  },
+  {
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCOAXCI_Ry2v0I7iwKou5On6Gj3iXRkjzhVbKPVehkdW6SUw3CeDmVyg&s=0",
+    "name": "Babasaheb Bhimrao Ambedkar University (A Central University), Lucknow",
+    "place": "Lucknow"
+  },
+  {
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP-IAoisrdFtOs0TeB9F9ahR7ZQNNKJ0tVko4W23WXzAi3YPzWqzrzew&s=0",
+    "name": "King George's Medical University",
+    "place": "Lucknow"
+  },
+  {
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaeZ632CGr2ymmED0kSKbMuO-38U5LQvUzM3Et7xqbrWWL2y-gQpP0CQ&s=0",
+    "name": "Guru Gobind Singh Indraprastha University",
+    "place": "Dwarka"
+  },
+  {
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRoUjXcPuj_GZzgQCzmFIw8GXzGlPiV49Hs9GJGHxX6PzCY6J4LXVTtg&s=0",
+    "name": "Alagappa University",
+    "place": "Karaikudi"
+  }
+]
