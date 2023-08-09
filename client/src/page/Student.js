@@ -47,8 +47,8 @@ class Student extends Component {
       this.props.addStudentToCourse(studentId, courseId);
     };
 
-    const handleCertificateDownload = (certificate) => {
-      console.log({ certificate });
+    const handleCertificateDownload = ({ key }) => {
+      this.props.fetchCerificate(this.props.common.id, key);
     };
 
     return (
@@ -69,6 +69,7 @@ class Student extends Component {
               <CourseAccordion
                 courses={courses}
                 actionNeeded={({ isComplete }) => isComplete}
+                certificateId={this.props.student.cid}
                 actionName="Download Cerificate"
                 action={handleCertificateDownload}
               />

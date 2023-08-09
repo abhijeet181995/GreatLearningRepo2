@@ -8,7 +8,7 @@ function InputBox({ textarea, value, setValue, ...props }) {
   };
 
   return (
-    <div className="border p-2">
+    <div className="border p-2 w-full">
       {textarea || (
         <input
           value={value}

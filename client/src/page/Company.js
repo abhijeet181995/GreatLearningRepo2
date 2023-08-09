@@ -12,6 +12,8 @@ import Body from "../component/Body";
 import { Link } from "react-router-dom";
 import { connect } from "react-redux";
 import * as actions from "../actions";
+import InputBox from "../component/InputBox";
+import { FcApproval, FcCancel, FcRefresh } from "react-icons/fc";
 
 class Company extends Component {
   constructor(props) {
@@ -53,8 +55,24 @@ class Company extends Component {
     const removeUniversity = (university) => {
       this.props.removeAllowedUniversity(this.props.common.id, university);
     };
+    const setCertificateHash = (hash) => {
+      this.props.setHash(hash);
+      this.props.setStatus(undefined);
+    };
+    const validateCertificate = () => {
+      this.props.validateCertificate(this.props.common.hash);
+    };
 
-    // const elRef = useRef();
+    const fetchStatus =
+      !this.props ||
+      !this.props.common ||
+      this.props.common.isValid === undefined ? (
+        <FcRefresh />
+      ) : this.props.common.isValid ? (
+        <FcApproval />
+      ) : (
+        <FcCancel />
+      );
 
     return (
       <div className="flex flex-col h-screen justify-between">
@@ -82,15 +100,19 @@ class Company extends Component {
                 renderItemFn={renderUniversityFn("Remove", removeUniversity)}
               />
             </div>
-            <div className="col-span-2 m-2 flex">
-              <Button
-                success
-                className="m-auto"
-                onClick={() => this.elRef.current.click()}
-              >
+            <div className="col-span-2 m-2">
+              <div className="flex w-full  justify-between">
+                <InputBox
+                  value={this.props.common.hash}
+                  setValue={setCertificateHash}
+                />
+                <div className="p-4 text-xl">
+                  {this.props.common.hash && fetchStatus}
+                </div>
+              </div>
+              <Button success className="m-auto" onClick={validateCertificate}>
                 Validate Certificate
               </Button>
-              <input type="file" ref={this.elRef} className="hidden" />
             </div>
           </div>
         </Body>

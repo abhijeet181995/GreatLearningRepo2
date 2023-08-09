@@ -41,7 +41,6 @@ module.exports.fetchCourseById = async (key) => {
 };
 
 module.exports.saveCourse = async (inCourse) => {
-  console.log({ inCourse });
   await new Course(inCourse).save();
   return await this.fetchCourseById(inCourse.key);
 };

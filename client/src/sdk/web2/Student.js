@@ -16,3 +16,5 @@ export const applyForCourse = async (studentId, courseId) =>
 
 export const fetchStudent = async (studentId) =>
   await fetch("/students/" + studentId);
+
+export const fetchCertificate = async (studentId, courseId) => null;

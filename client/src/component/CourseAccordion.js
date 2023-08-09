@@ -25,7 +25,7 @@ const ddmmyyyy = function (date) {
 };
 
 const toAccordionItem =
-  (action, actionName, actionNeeded) => (course, index) => {
+  (action, actionName, certificateId, actionNeeded) => (course, index) => {
     const {
       name,
       startDate,
@@ -54,6 +54,9 @@ const toAccordionItem =
       <div>
         <hr />
         <div className="flex justify-end mt-4 w-full">
+          <div className="text-sm p-2 border m-2 break-all">
+            {certificateId}
+          </div>
           <Button
             success
             outline
@@ -118,9 +121,12 @@ function CourseAccordion({
   courses,
   action,
   actionName,
+  certificateId,
   actionNeeded = (course) => true,
 }) {
-  const items = courses.map(toAccordionItem(action, actionName, actionNeeded));
+  const items = courses.map(
+    toAccordionItem(action, actionName, certificateId, actionNeeded)
+  );
 
   return <Accordion items={items}></Accordion>;
 }

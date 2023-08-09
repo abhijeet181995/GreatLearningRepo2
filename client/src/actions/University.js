@@ -3,7 +3,7 @@ import { university as universitySDK, course as courseSDK } from "../sdk";
 
 const getUniversityDetails = async (id) => {
   const university = await universitySDK.fetchDetails(id);
-  const courses = await courseSDK.fetchDetails(id); // fetch("/courses/" + id);
+  const courses = await courseSDK.fetchDetails(id);
   return {
     ...university,
     courses: courses.map((course) => {
@@ -43,7 +43,7 @@ export const addNewCourse = (course) => async (dispatch) => {
 };
 
 export const markCourseComplete = (course, university) => async (dispatch) => {
-  await courseSDK.markCourseComplete(course);
+  await courseSDK.markCourseComplete(course, university);
   dispatch({
     type: FETCH_UNIVERSITY,
     payload: await getUniversityDetails(university),

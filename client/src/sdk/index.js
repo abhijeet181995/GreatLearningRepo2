@@ -1,7 +1,9 @@
-const realm = "web2";
+const realm = "web3";
 
-export const common = { ...require("./" + realm + "/Common") };
-export const company = { ...require("./" + realm + "/Company") };
-export const course = { ...require("./" + realm + "/Course") };
-export const university = { ...require("./" + realm + "/University") };
-export const student = { ...require("./" + realm + "/Student") };
+module.exports = {
+  common: { ...require("./" + realm + "/Common") },
+  company: { ...require("./" + realm + "/Company") },
+  course: { ...require("./" + realm + "/Course") },
+  university: { ...require("./" + realm + "/University") },
+  student: { ...require("./" + realm + "/Student") },
+};
