@@ -1,4 +1,4 @@
-module.exports.fetch = async (url, method, body) => {
+export async function fetch(url, method, body) {
   const options = {
     method,
   };
@@ -11,13 +11,13 @@ module.exports.fetch = async (url, method, body) => {
     "Content-Type": "application/json",
   };
   return await fetch(url, options).then((z) => z.json());
-};
+}
 
-module.exports.promisify = async (fn) => {
+export async function promisify(fn) {
   return new Promise((resolve, reject) => {
     fn((err, result) => {
       if (err) return reject(err);
       resolve(result);
     });
   });
-};
+}
