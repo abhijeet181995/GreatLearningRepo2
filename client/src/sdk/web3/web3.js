@@ -9,7 +9,7 @@ export const getWeb3 = async () => {
   } else {
     //const provider = new Web3.providers.HttpProvider("http://127.0.0.1:7545");
     //Update Alchemy API_URL in client/.env
-     const provider = new Web3.providers.HttpProvider("https://eth-sepolia.g.alchemy.com/v2/GOKFTMlY0P9Po6Eu-9YFlPTkB87o0VUS");
+     const provider = new Web3.providers.HttpProvider(process.env.API_URL);
     return new Web3(provider);
   }
 };
