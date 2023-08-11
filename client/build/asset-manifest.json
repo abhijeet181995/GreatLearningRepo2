@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "./static/css/main.dc28c5ff.css",
+    "main.js": "./static/js/main.184770b2.js",
+    "static/media/university.logo.png": "./static/media/university.logo.ff78ced3d2c87d70fff3.png",
+    "static/media/banner.0.jpg.avif": "./static/media/banner.0.jpg.7f2f224fad64f1f01179.avif",
+    "static/media/student.logo.jpg": "./static/media/student.logo.7fbba6d81422d235e477.jpg",
+    "index.html": "./index.html",
+    "main.dc28c5ff.css.map": "./static/css/main.dc28c5ff.css.map",
+    "main.184770b2.js.map": "./static/js/main.184770b2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc28c5ff.css",
+    "static/js/main.184770b2.js"
+  ]
+}
