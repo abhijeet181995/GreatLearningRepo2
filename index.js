@@ -19,8 +19,8 @@ require("./routes/University")(app);
 require("./routes/Student")(app);
 require("./routes/Course")(app);
 
-const uri = "mongodb+srv://jitralespe:jitralespe123@cluster0.hjxop4h.mongodb.net/?retryWrites=true&w=majority";
-mongoose.connect(uri);
+// const uri = "mongodb+srv://jitralespe:jitralespe123@cluster0.hjxop4h.mongodb.net/?retryWrites=true&w=majority";
+// mongoose.connect(uri);
 // mongoose.connect("mongodb://localhost:27017");
 
 app.get("/certificate/:cid", async (req, res) => {
